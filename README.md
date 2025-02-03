@@ -15,7 +15,8 @@ JavaScript – for interactivity and functionality
 📸 Screenshots
 
 Screenshot 2025-02-03 144123.png
-Screenshot 2025-02-03 144123.png
+Screenshot 2025-02-03 144128.png
+
 📂 Installation
 Clone the repository:
 
