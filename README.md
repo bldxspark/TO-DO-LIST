@@ -12,6 +12,10 @@ HTML – for structuring the app
 CSS – for styling and layout
 JavaScript – for interactivity and functionality
 
+📸 Screenshots
+
+Screenshot 2025-02-03 144123.png
+Screenshot 2025-02-03 144123.png
 📂 Installation
 Clone the repository:
 
