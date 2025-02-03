@@ -15,7 +15,7 @@ JavaScript – for interactivity and functionality
 📂 Installation
 Clone the repository:
 
-git clone https://github.com/bldxspark/to do list.git
+git clone (https://github.com/bldxspark/TO-DO-LIST.git)
 
 Navigate to the project folder:
 
