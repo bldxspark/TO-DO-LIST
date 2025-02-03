@@ -1,0 +1,114 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('image.jpg');
+    background-size: cover;  /* Make the background cover the entire screen */
+    background-position: center;
+}
+
+/* Container Styling */
+.container {
+    border: 2px solid rgb(48, 157, 179);
+    background-color: #b9d5d4;
+    padding: 20px 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 400px;
+}
+
+/* Title Styling */
+h1, h2 {
+    text-align: center;
+    color: #000000;
+}
+
+/* Input and Add Task Button */
+.input-container {
+    display: flex;
+    margin-bottom: 20px;
+    gap: 10px;
+}
+
+#todoinput {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    outline: none;
+    background-color: rgb(255, 255, 255);
+}
+
+#add-task-button {
+    width: 70px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #52959e;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#add-task-button:hover {
+    background-color: #18595e;
+}
+/* To-Do List Items */
+#todo-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#todo-list li {
+    position: relative;
+    padding: 10px 80px 10px 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    color: rgb(4, 4, 4);
+    margin-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+    word-wrap: break-word;
+}
+.cont{
+    display: flex;
+    justify-content: end;
+}
+/* Edit Button Styling */
+.editbtn {
+    position: absolute;
+    top: 50%;
+   /* Move it to the left */
+    transform: translateY(-50%);
+    padding: 5px 10px;
+    border: none;
+    background-color: #ffb84d;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.editbtn:hover {
+    background-color: #e6a700;
+}
+
+/* Delete Button Styling */
+.deletebtn {
+    position: absolute;
+    top: 50%;
+    right: 10px;  /* Move it to the right */
+    transform: translateY(-50%);
+    padding: 5px 10px;
+    border: none;
+    background-color: #ff4d4d;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.deletebtn:hover {
+    background-color: #e60000;
+}
