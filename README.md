@@ -1,4 +1,4 @@
-📝 To-Do List App
+📝 To-Do List App:
 A simple and efficient To-Do List application to help you organize tasks and manage your day effortlessly. Built using HTML, CSS, and JavaScript, this app allows you to add, complete, and delete tasks with a clean, user-friendly interface.
 
 🚀 Features
@@ -11,10 +11,6 @@ Clean and simple design
 HTML – for structuring the app
 CSS – for styling and layout
 JavaScript – for interactivity and functionality
-
-📸 Screenshots
-
-Screenshot 2025-02-03 144128.png](https://github.com/bldxspark/TO-DO-LIST/blob/da12152a5b6c6b7610bd050afcd1431a0f1d0725/Screenshot%202025-02-03%20144123.png)
 
 📂 Installation
 Clone the repository:
@@ -50,6 +46,9 @@ Create a new branch (git checkout -b feature-branch)
 Commit your changes (git commit -m 'Add new feature')
 Push to your branch (git push origin feature-branch)
 Open a Pull Request
+
+📸 Screenshots
+
 
 📜 License
 This project is licensed under the MIT License.
