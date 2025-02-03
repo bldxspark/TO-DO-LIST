@@ -45,10 +45,12 @@ Fork the repository
 Create a new branch (git checkout -b feature-branch)
 Commit your changes (git commit -m 'Add new feature')
 Push to your branch (git push origin feature-branch)
+
 Open a Pull Request
 
 📸 Screenshots
-
+![Screenshot 2025-02-03 144123](https://github.com/user-attachments/assets/b3e52e64-2059-47e0-975b-bb1d1f1e8c9d)
+![Screenshot 2025-02-03 144228](https://github.com/user-attachments/assets/f2540a0f-2c78-4233-a0eb-a968e1661a8f)
 
 📜 License
 This project is licensed under the MIT License.
