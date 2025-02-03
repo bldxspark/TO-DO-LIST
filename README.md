@@ -14,8 +14,7 @@ JavaScript – for interactivity and functionality
 
 📸 Screenshots
 
-Screenshot 2025-02-03 144123.png
-Screenshot 2025-02-03 144128.png
+Screenshot 2025-02-03 144128.png](https://github.com/bldxspark/TO-DO-LIST/blob/da12152a5b6c6b7610bd050afcd1431a0f1d0725/Screenshot%202025-02-03%20144123.png)
 
 📂 Installation
 Clone the repository:
